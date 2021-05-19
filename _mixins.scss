@@ -1,0 +1,8 @@
+@mixin paramenters ($w, $h) {
+    width: $w;
+    height: $h;
+}
+@mixin steps ($w, $h) {
+     width: $w;
+    height: $h;
+}
