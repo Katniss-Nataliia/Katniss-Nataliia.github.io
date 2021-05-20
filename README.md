@@ -1,2 +1,2 @@
-# Katniss-Nataliia.github.io
+# Katniss.github.io
 First project
